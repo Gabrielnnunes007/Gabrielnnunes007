@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 Atualmente eu estou fazendo Faculdade Análise e desenvolvimento de sistemas
-- 👯 Estou procurando Estágios para me candidatar
+- 👯 Estou a procura de estágio para colocar colocar a mão na massa
+- 👷 Estou estudando e me especializando em Python
 ##
 
  <div>
