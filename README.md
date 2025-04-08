@@ -1,4 +1,4 @@
-# 🔥 E aí! Sou o Gabriel!
+# 🔥 Hey there! I'm Gabriel!
 
 🚀 **Back-end Developer | Focused on Java and Python**  
 🎯 **Currently specializing in Java and Software Engineering**  
