@@ -1,4 +1,4 @@
-# 🔥 E aí! Meu nome é Gabriel!
+# 🔥 E aí! Sou o Gabriel!
 
 🚀 **Desenvolvedor Back-end | Focado em Java e Python**  
 🎯 **Atualmente me especializando em Java e Engenharia de Software**  
