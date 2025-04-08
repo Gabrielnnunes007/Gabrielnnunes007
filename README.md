@@ -1,8 +1,8 @@
 # 🔥 E aí! Sou o Gabriel!
 
-🚀 **Back-end Developer | Focused on Java and Python**
-🎯 **Currently specializing in Java and Software Engineering**
-💡 **Pursuing a career as a Software Developer** 
+🚀 **Back-end Developer | Focused on Java and Python**  
+🎯 **Currently specializing in Java and Software Engineering**  
+💡 **Pursuing a career as a Software Developer**  
 
 ---
 
