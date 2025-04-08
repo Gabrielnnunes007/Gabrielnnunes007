@@ -1,43 +1,31 @@
 # 👋 Olá, eu sou o Gabriel! 
 
-🚀 **Desenvolvedor Back-end | Focado em Python e Java**  
+🚀 **Desenvolvedor Back-end | Focado em Java e Python**  
 🎯 **Atualmente me especializando em Java e Engenharia de Software**  
 💡 **Buscando uma carreira como Software Developer**  
 
 ---
 
-## 💻 Sobre mim  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**  
-- 📊 Quero trabalhar com **Inteligência Artificial e Ciência de Dados**  
-- 🌍 Planejo ir para o **Japão** para estudar e trabalhar na área de TI  
-- 🎹 Gosto de tocar piano, ler e estudar a Bíblia 📖  
-- 🎮 Também sou gamer nas horas vagas!  
-
----
-
-## 🚀 Tecnologias e Ferramentas  
+## 🚀 Ferramentas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📈 Estatísticas  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielnnunes007&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnnunes007&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🌎 Onde me encontrar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario-github)
+## 🌎 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-nunes-33b408258/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Gabrielnnunes007)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__nnunes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabsgab1234@gmail.com)
 
 ---
-
-### ⭐ Se gostou do meu trabalho, deixe uma estrela nos meus repositórios! 🚀
