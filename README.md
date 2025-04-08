@@ -1,12 +1,12 @@
 # 🔥 E aí! Sou o Gabriel!
 
-🚀 **Desenvolvedor Back-end | Focado em Java e Python**  
-🎯 **Atualmente me especializando em Java e Engenharia de Software**  
-💡 **Buscando uma carreira como Software Developer**  
+🚀 **Back-end Developer | Focused on Java and Python**
+🎯 **Currently specializing in Java and Software Engineering**
+💡 **Pursuing a career as a Software Developer** 
 
 ---
 
-## 🚀 Ferramentas  
+## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📈 Estatísticas  
+## 📈 GitHub Stats  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrielnnunes007&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielnnunes007&layout=compact&langs_count=16&theme=calm_pink"/>
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌎 Redes Sociais
+## 🌎 Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-nunes-33b408258/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Gabrielnnunes007)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__nnunes)
